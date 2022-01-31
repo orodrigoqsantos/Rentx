@@ -13,6 +13,7 @@
     "@types/multer": "^1.4.7",
     "csv-parse": "^5.0.4",
     "docker-compose": "^0.23.17",
+    "eslint": "^8.8.0",
     "express": "^4.17.1",
     "multer": "^1.4.4",
     "pg": "^8.7.1",
